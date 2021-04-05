@@ -1,24 +1,19 @@
-# README
+# ReadMe
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ROR App with VueJS integration and Vuex API's for databse calls
 
-Things you may want to cover:
+Language and features:
 
-* Ruby version
+* Ruby version '2.6.3'
 
-* System dependencies
+* Rails version '~> 6.1.3'
 
-* Configuration
+* Sqlite3 version '~> 1.4'
 
-* Database creation
+* Webpacker version '~> 5.0'
 
-* Database initialization
+* vue-axios version '^3.2.4'
 
-* How to run the test suite
+* vue-router version '^3.2.4'
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Vuex version '^3.6.2'
